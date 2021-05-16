@@ -16,7 +16,7 @@ varIntro = "ShovelKnight.exe+8F4328"
 varHealth = "[ShovelKnight.exe+8D4398]+e8"
 varMoney = "[ShovelKnight.exe+8D4398]+3dc"
 --varCameraLock = "[[[[[ShovelKnight.exe+006FFBA0]+7fc]+7e0]+438]+438]+3e0"
-varBossHealth = "[[[[[[[ShovelKnight.exe+8D4398]+2c]+4]+28]+4]+14]+50]+218"
+varBossHealth = "[[[[[[[[ShovelKnight.exe+8D3F70]+14]+98]+0]+140]+8]+104]+184]+20"
 varMana = "[ShovelKnight.exe+8D4398]+3d8"
 
 --commented pointers are outdated, but aren't used
